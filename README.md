@@ -1,5 +1,3 @@
-# app_ideas.md
-
 Mobile App Dev - App Brainstorming
 ===
 
@@ -11,75 +9,74 @@ Mobile App Dev - App Brainstorming
 5. Venmo
 
 ## Why are these apps so amazing?
-1. Connect people 
+1. Connect people to each other
 2. Connect your world to the outside world
 3. Simple user interface 
-4. We use these apps everyday 
-5. You need them to do something 
-6. You feel like you accomplish a task
+4. Necessary for everyday use
+5. Allows tasks to be accomplished
 
 ## New App Ideas - List
 1. Mentoring App
 2. College Search App
-    -connecting incoming college students to college students/professionals to learn more about different fields, jobs, majors
+    - connecting incoming college students to college students/professionals to learn more about different fields, jobs, majors
 3. Traveling App
-    -Google app/yelp combo
-    -gives description of locations near you and distance from your position
-    -shows all local events, places, how much does it cost to get there
+    - Google app/yelp combo
+    - gives description of locations near you and distance from your position
+    - shows all local events, places, how much does it cost to get there
 4. Roommate app 
-    -create bios
-    -organized by universities or housing system
-    -filter search option
-    -show living cost
-    -messaging system
-    -recommend places that they can stay at 
+    - create bios
+    - organized by universities or housing system
+    - filter search option
+    - show living cost
+    - messaging system
+    - recommend places that they can stay at 
 5. Grocery app
-    -alert when items expire or needs restocking
-    -communicate with members of the group to buy certain items
-    -show which location has items on sale
-    -grocery list
+    - alert when items expire or needs restocking
+    - communicate with members of the group to buy certain items
+    - show which location has items on sale
+    - grocery list
 6. Free and For Sale App
-    -for students to sell belongings they no longer need
+    - for students to sell belongings they no longer need
 7. Textbook App
-    -upload textbook pdfs
-    -organized by school, course, professors
-8. time management app
-    -includes to do list, and daily events
-9. check splitter
-    -reads the total cost, 
-    -you input number of people
-    -gives different options, split equally, by item, include/exclude tip
-    -possibly connects to venmo
-10. travel check splitter
-    -keeps track of cost 
-    -Calculate the total cost of the trip
-    -Perform all the calculation and show how much each person should pay
-    -You can also write notes on the transactions
-11. coffee delivery service
-    -on campus delivery service
-    -could be run by students
-    -deliveries directly to classrooms
-    -Doordash but Classdash?
-12. google maps for campuses
-    -shows how to get to class & time it will take to get to class
-13. Shows waittime for Food places on campus
+    - upload textbook pdfs
+    - organized by school, course, professors
+8. Time Management App
+    - includes to do list, and daily events
+9. Check Splitter
+    - reads the total cost, 
+    - you input number of people
+    - gives different options, split equally, by item, include/exclude tip
+    - possibly connects to venmo
+10. Travel Check Splitter
+    - keeps track of cost 
+    - Calculate the total cost of the trip
+    - Perform all the calculation and show how much each person should pay
+    - You can also write notes on the transactions
+11. Coffee Delivery Service
+    - on campus delivery service
+    - could be run by students
+    - deliveries directly to classrooms
+    - Doordash but Classdash?
+12. Google Maps for Campuses
+    - shows how to get to class & time it will take to get to class
+13. Shows Wait Time for Food Places on Campus
 14. Social Media *college edition
-    -connects people in other schools
-    -current events in each school
-    -connects clubs
-16. Visiting Friends In other Schools
-    -transportation to visit
-    -estimated time
+    - connects people in other schools
+    - current events in each school
+    - connects clubs
+16. Visiting Friends in Other Schools
+    - transportation to visit
+    - estimated time
 16. College Tours
-    -distance between schools
-    -notify when tours are
-    -map of locations on campus
-    -students can list must-see places
+    - distance between schools
+    - notify when tours are
+    - map of locations on campus
+    - students can list must-see places
 
 ## Top 3 New App Ideas
-   1. roommate (3) 
-   2. check splitter (3)
-   3. coffee delivery (3)
+   1. roommate 
+   2. check splitter 
+   3. coffee delivery 
 
 ## Check Splitter
 Description: Allows users to take a picture of receipt. There are different options of payment such as splitting equally, including or excluding tip, or by items ordered. Users can connect their Venmo account so that each person can be charged accordingly.
